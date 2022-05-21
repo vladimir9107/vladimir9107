@@ -24,7 +24,7 @@
 
 Сертификат о прохождении курса GeekBrains Тестирование веб-приложений:
 ![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-25-15.png)
-Сертификат о прохождении курса GeekBrains Основы языка Pyton:
-![](https://github.com/NGrani/ngrani/blob/main/assets/Сертификат%20pyton.png)
+Сертификат о прохождении курса GeekBrains HTML/CSS для тестировщика:
+![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-26-27.png)
 Сертификат о прохождении курса английского Simpler:
 ![](https://github.com/NGrani/ngrani/blob/main/assets/of%20Completion.PNG)
