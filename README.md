@@ -28,3 +28,5 @@
 ![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-26-27.png)
 Сертификат о прохождении курса GeekBrains Основы ручного тестирования:
 ![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-27-16.png)
+Сертификат о прохождении курса GeekBrains Java Уровень 1:
+![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-24-48.png)
