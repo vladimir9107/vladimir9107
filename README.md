@@ -16,8 +16,7 @@
 * Узнал, как документировать обнаруженные баги в баг-трекинговых системах.
 * Работал с Chrome DevTools, Postman, Charles, Fiddler.
 
-Вот что я умею:
-* Swift [дипломная работа по курсу iOS-разработчик](https://github.com/NGrani/ios-homeworks.git)
+
 
 **Сертификаты:**
 
