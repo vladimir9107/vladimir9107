@@ -18,20 +18,4 @@
 
 
 
-**Сертификаты:**
 
-
-Сертификат о прохождении курса GeekBrains Тестирование веб-приложений:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-25-15.png)
-Сертификат о прохождении курса GeekBrains HTML/CSS для тестировщика:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-26-27.png)
-Сертификат о прохождении курса GeekBrains Основы ручного тестирования:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-27-16.png)
-Сертификат о прохождении курса GeekBrains Java Уровень 1:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-24-48.png)
-Сертификат о прохождении курса GeekBrains Java Core для тестировщика:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-24-14.png)
-Сертификат о прохождении курса GeekBrains Командная работа:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-22-07.png)
-Сертификат о прохождении курса GeekBrains Linux. Рабочая станция:
-![](https://github.com/vladimir9107/vladimir9107/blob/main/assets/2022-05-21_23-16-42.png)
